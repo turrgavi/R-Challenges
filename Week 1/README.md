@@ -11,6 +11,7 @@ This week's challenge will be to:
 
 - File name is: ReadMe.csv
 - No additional libraries are required
+- If you are struggling to read the csv, try using the read.csv() command with file.choose()
 
 
 <details> 
